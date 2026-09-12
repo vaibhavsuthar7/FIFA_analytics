@@ -3,7 +3,7 @@
 # ⚽ FIFA Player Scouting Dashboard
 ### 🚀 Interactive & Animated Power BI Implementation Guide
 
-![FIFA Scouting Dashboard Demo](dashboard_demo.webp)
+![FIFA Scouting Dashboard Demo](dashboard_demo.png)
 
 [![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![DAX](https://img.shields.io/badge/DAX-Measures-blue?style=for-the-badge)](#)

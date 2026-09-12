@@ -2,7 +2,7 @@
 
 # ⚽ FIFA Player Scouting & Performance Analytics Dashboard
 
-![FIFA Scout Pro Banner](dashboard_demo.webp)
+![FIFA Scout Pro Banner](dashboard_demo.png)
 
 [![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Web_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fifa-analytics.vercel.app/)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -20,14 +20,14 @@
 
 ---
 
-## 📽️ Live Dashboard Preview (Animated Walkthrough)
+## 📽️ Live Dashboard Preview
 
 > [!TIP]
 > Click the image below or visit **[fifa-analytics.vercel.app](https://fifa-analytics.vercel.app/)** to experience the live interactive web dashboard with real-time filters, animated Chart.js graphs, and talent matrix cards!
 
 <div align="center">
   <a href="https://fifa-analytics.vercel.app/" target="_blank">
-    <img src="dashboard_demo.webp" alt="FIFA Dashboard Demo Animation" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
+    <img src="dashboard_demo.png" alt="FIFA Dashboard Demo Screenshot" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
   </a>
 </div>
 
