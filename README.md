@@ -4,6 +4,7 @@
 
 ![FIFA Scout Pro Banner](dashboard_demo.webp)
 
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Web_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fifa-analytics.vercel.app/)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org)
@@ -13,6 +14,8 @@
 
 *An end-to-end **Data Analytics & Recruitment Intelligence Dashboard** designed to evaluate player performance, identify high-potential young talent (**"Hidden Gems"**), and analyze market **Value-for-Money**.*
 
+### 🚀 **[Try Live Interactive Web App on Vercel 🌐](https://fifa-analytics.vercel.app/)**
+
 </div>
 
 ---
@@ -20,10 +23,12 @@
 ## 📽️ Live Dashboard Preview (Animated Walkthrough)
 
 > [!TIP]
-> Click the image below or open `index.html` in your browser to experience the live interactive web dashboard with real-time filters, animated Chart.js graphs, and talent matrix cards!
+> Click the image below or visit **[fifa-analytics.vercel.app](https://fifa-analytics.vercel.app/)** to experience the live interactive web dashboard with real-time filters, animated Chart.js graphs, and talent matrix cards!
 
 <div align="center">
-  <img src="dashboard_demo.webp" alt="FIFA Dashboard Demo Animation" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
+  <a href="https://fifa-analytics.vercel.app/" target="_blank">
+    <img src="dashboard_demo.webp" alt="FIFA Dashboard Demo Animation" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
+  </a>
 </div>
 
 ---
@@ -67,7 +72,7 @@ graph TD
 | Contact Field | Details |
 |---|---|
 | **Author Name** | **Vaibhav** *(Data Analyst & BI Developer)* |
-| **Email Address** | 📧 `vaibhav.analytics@example.com` |
+| **Live Web App** | 🚀 [fifa-analytics.vercel.app](https://fifa-analytics.vercel.app/) |
 | **GitHub Profile** | 🔗 [github.com/vaibhavsuthar7](https://github.com/vaibhavsuthar7) |
 | **Project Repo** | 🔗 [FIFA_analytics](https://github.com/vaibhavsuthar7/FIFA_analytics) |
 
