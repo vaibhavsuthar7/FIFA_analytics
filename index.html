@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIFA Player Scouting & Performance Dashboard</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Top Header Navigation -->
+    <header class="navbar">
+        <div class="brand">
+            <div class="logo-icon">
+                <i class="fa-solid fa-futbol glow-spin"></i>
+            </div>
+            <div class="brand-text">
+                <h1>FIFA SCOUT <span>PRO</span></h1>
+                <p>Player Performance & Recruitment Analytics</p>
+            </div>
+        </div>
+        <div class="nav-tabs">
+            <button class="nav-btn active" data-tab="tab-dashboard">
+                <i class="fa-solid fa-chart-pie"></i> Executive Overview
+            </button>
+            <button class="nav-btn" data-tab="tab-scout">
+                <i class="fa-solid fa-users-viewfinder"></i> Player Directory
+            </button>
+            <button class="nav-btn" data-tab="tab-gems">
+                <i class="fa-solid fa-gem glow-gold"></i> Hidden Gems (<span id="gems-count-badge">0</span>)
+            </button>
+            <button class="nav-btn" data-tab="tab-matrix">
+                <i class="fa-solid fa-chart-gantt"></i> Talent Matrix
+            </button>
+        </div>
+        <div class="header-actions">
+            <span class="dataset-badge"><i class="fa-solid fa-database"></i> 379 Cleaned Records</span>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Global Filter Bar -->
+        <section class="filter-panel">
+            <div class="search-box">
+                <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                <input type="text" id="search-input" placeholder="Search player, club, country...">
+            </div>
+            
+            <div class="filter-group">
+                <label><i class="fa-solid fa-shield-halved"></i> Position</label>
+                <select id="filter-position">
+                    <option value="ALL">All Positions</option>
+                    <option value="Attacker">Attacker</option>
+                    <option value="Midfielder">Midfielder</option>
+                    <option value="Defender">Defender</option>
+                    <option value="Goalkeeper">Goalkeeper</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label><i class="fa-solid fa-calendar-days"></i> Age Group</label>
+                <select id="filter-age">
+                    <option value="ALL">All Ages</option>
+                    <option value="U21">U21 (16-21)</option>
+                    <option value="21-25">21-25 Peak Youth</option>
+                    <option value="26-30">26-30 Prime</option>
+                    <option value="30+">30+ Veteran</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label><i class="fa-solid fa-building-shield"></i> Club</label>
+                <select id="filter-club">
+                    <option value="ALL">All Clubs</option>
+                </select>
+            </div>
+
+            <div class="filter-group toggle-group">
+                <label for="filter-gems-toggle" class="toggle-label">
+                    <input type="checkbox" id="filter-gems-toggle">
+                    <span class="custom-toggle"></span>
+                    <span class="toggle-text"><i class="fa-solid fa-gem"></i> Gems Only</span>
+                </label>
+            </div>
+
+            <button id="reset-filters-btn" class="reset-btn">
+                <i class="fa-solid fa-rotate-left"></i> Reset
+            </button>
+        </section>
+
+        <!-- KPI Metric Cards -->
+        <section class="kpi-grid">
+            <div class="kpi-card glow-blue">
+                <div class="kpi-icon"><i class="fa-solid fa-users"></i></div>
+                <div class="kpi-info">
+                    <span class="kpi-title">Total Players Analyzed</span>
+                    <h2 id="kpi-total-players">0</h2>
+                    <span class="kpi-subtext">Active Database</span>
+                </div>
+            </div>
+
+            <div class="kpi-card glow-green">
+                <div class="kpi-icon"><i class="fa-solid fa-star"></i></div>
+                <div class="kpi-info">
+                    <span class="kpi-title">Avg Overall Rating</span>
+                    <h2 id="kpi-avg-rating">0.0</h2>
+                    <span class="kpi-subtext">Current Ability</span>
+                </div>
+            </div>
+
+            <div class="kpi-card glow-cyan">
+                <div class="kpi-icon"><i class="fa-solid fa-bolt"></i></div>
+                <div class="kpi-info">
+                    <span class="kpi-title">Avg Potential Rating</span>
+                    <h2 id="kpi-avg-potential">0.0</h2>
+                    <span class="kpi-subtext">Projected Peak</span>
+                </div>
+            </div>
+
+            <div class="kpi-card glow-gold">
+                <div class="kpi-icon"><i class="fa-solid fa-gem"></i></div>
+                <div class="kpi-info">
+                    <span class="kpi-title">Hidden Gems Found</span>
+                    <h2 id="kpi-hidden-gems">0</h2>
+                    <span class="kpi-subtext">Age ≤ 23 & Growth ≥ 8</span>
+                </div>
+            </div>
+
+            <div class="kpi-card glow-purple">
+                <div class="kpi-icon"><i class="fa-solid fa-euro-sign"></i></div>
+                <div class="kpi-info">
+                    <span class="kpi-title">Avg Market Value</span>
+                    <h2 id="kpi-avg-value">€0M</h2>
+                    <span class="kpi-subtext">Total Portfolio Value</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB 1: EXECUTIVE OVERVIEW -->
+        <div id="tab-dashboard" class="tab-content active">
+            <div class="charts-grid">
+                <!-- Scatter Plot: Overall vs Potential -->
+                <div class="chart-card span-2">
+                    <div class="card-header">
+                        <h3><i class="fa-solid fa-chart-line"></i> Overall vs. Potential (Talent Scouting Map)</h3>
+                        <span class="card-hint">Top-right = World Class | Top-left = High Potential Gems</span>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="chart-scatter"></canvas>
+                    </div>
+                </div>
+
+                <!-- Position Group Distribution -->
+                <div class="chart-card">
+                    <div class="card-header">
+                        <h3><i class="fa-solid fa-chart-pie"></i> Players by Position Group</h3>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="chart-positions"></canvas>
+                    </div>
+                </div>
+
+                <!-- Position Group Average Value & Wage -->
+                <div class="chart-card span-2">
+                    <div class="card-header">
+                        <h3><i class="fa-solid fa-sack-dollar"></i> Avg Market Value (€M) by Position & Age</h3>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="chart-values"></canvas>
+                    </div>
+                </div>
+
+                <!-- Age Distribution Doughnut -->
+                <div class="chart-card">
+                    <div class="card-header">
+                        <h3><i class="fa-solid fa-cake-candles"></i> Age Bucket Distribution</h3>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="chart-age-buckets"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 2: PLAYER DIRECTORY -->
+        <div id="tab-scout" class="tab-content">
+            <div class="table-card">
+                <div class="table-header">
+                    <h3><i class="fa-solid fa-list-check"></i> Player Scouting Database</h3>
+                    <span class="results-count">Showing <strong id="table-showing-count">0</strong> players</span>
+                </div>
+                <div class="table-responsive">
+                    <table class="scout-table">
+                        <thead>
+                            <tr>
+                                <th data-sort="short_name">Player <i class="fa-solid fa-sort"></i></th>
+                                <th data-sort="position_group">Pos <i class="fa-solid fa-sort"></i></th>
+                                <th data-sort="club_name">Club <i class="fa-solid fa-sort"></i></th>
+                                <th data-sort="age">Age <i class="fa-solid fa-sort"></i></th>
+                                <th data-sort="overall">Overall <i class="fa-solid fa-sort"></i></th>
+                                <th data-sort="potential">Potential <i class="fa-solid fa-sort"></i></th>
+                                <th data-sort="growth_potential">Growth <i class="fa-solid fa-sort"></i></th>
+                                <th data-sort="value_eur">Value (€) <i class="fa-solid fa-sort"></i></th>
+                                <th data-sort="value_for_money">Value Score <i class="fa-solid fa-sort"></i></th>
+                                <th>Status</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="player-table-body">
+                            <!-- Dynamic Table Rows -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 3: HIDDEN GEMS -->
+        <div id="tab-gems" class="tab-content">
+            <div class="gems-hero">
+                <div class="gems-hero-text">
+                    <h2><i class="fa-solid fa-gem glow-gold"></i> Hidden Gems Scouting Zone</h2>
+                    <p>Young prodigies (Age ≤ 23) with massive growth potential (+8 or higher) available for high-return investments.</p>
+                </div>
+            </div>
+
+            <div id="gems-grid" class="gems-grid">
+                <!-- Dynamic Hidden Gem Cards -->
+            </div>
+        </div>
+
+        <!-- TAB 4: TALENT MATRIX & COMPARISON -->
+        <div id="tab-matrix" class="tab-content">
+            <div class="matrix-grid">
+                <div class="matrix-card">
+                    <h3><i class="fa-solid fa-trophy"></i> Top 10 Highest Rated Players</h3>
+                    <div id="top-rated-list" class="top-list"></div>
+                </div>
+
+                <div class="matrix-card">
+                    <h3><i class="fa-solid fa-rocket"></i> Top 10 Highest Potential Wonderkids</h3>
+                    <div id="top-potential-list" class="top-list"></div>
+                </div>
+
+                <div class="matrix-card">
+                    <h3><i class="fa-solid fa-hand-holding-dollar"></i> Top 10 Best Value-for-Money Targets</h3>
+                    <div id="top-value-list" class="top-list"></div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Player Details Modal -->
+    <div id="player-modal" class="modal">
+        <div class="modal-content glass-card">
+            <button class="modal-close" id="modal-close-btn">&times;</button>
+            
+            <div class="modal-body">
+                <div class="player-profile-header">
+                    <div class="player-avatar">
+                        <i class="fa-solid fa-user-ninja"></i>
+                    </div>
+                    <div class="player-title">
+                        <h2 id="modal-player-name">Player Name</h2>
+                        <p><span id="modal-player-club">Club</span> • <span id="modal-player-nat">Country</span></p>
+                        <div class="badges-row">
+                            <span id="modal-pos-badge" class="badge pos-badge">POS</span>
+                            <span id="modal-gem-badge" class="badge gem-badge"><i class="fa-solid fa-gem"></i> Hidden Gem</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="modal-stats-grid">
+                    <div class="modal-stat-box">
+                        <span>Age</span>
+                        <h4 id="modal-stat-age">21</h4>
+                    </div>
+                    <div class="modal-stat-box">
+                        <span>Overall Rating</span>
+                        <h4 id="modal-stat-overall">85</h4>
+                    </div>
+                    <div class="modal-stat-box">
+                        <span>Potential Rating</span>
+                        <h4 id="modal-stat-potential">92</h4>
+                    </div>
+                    <div class="modal-stat-box">
+                        <span>Growth</span>
+                        <h4 id="modal-stat-growth">+7</h4>
+                    </div>
+                    <div class="modal-stat-box">
+                        <span>Market Value</span>
+                        <h4 id="modal-stat-value">€45M</h4>
+                    </div>
+                    <div class="modal-stat-box">
+                        <span>Weekly Wage</span>
+                        <h4 id="modal-stat-wage">€80K</h4>
+                    </div>
+                </div>
+
+                <div class="modal-radar-section">
+                    <h3>Attribute Breakdown Radar</h3>
+                    <div class="radar-container">
+                        <canvas id="modal-radar-chart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
