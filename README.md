@@ -2,7 +2,11 @@
 
 # ⚽ FIFA Player Scouting & Performance Analytics Dashboard
 
-![FIFA Scout Pro Banner](assets/dashboard_demo.png)
+<a href="https://fifa-analytics.vercel.app/" target="_blank">
+  <img src="https://raw.githubusercontent.com/vaibhavsuthar7/FIFA_analytics/main/assets/dashboard_demo.png" alt="FIFA Scout Pro Banner" width="100%" style="border-radius: 10px;" />
+</a>
+
+<br><br>
 
 [![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Web_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fifa-analytics.vercel.app/)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -27,7 +31,7 @@
 
 <div align="center">
   <a href="https://fifa-analytics.vercel.app/" target="_blank">
-    <img src="assets/dashboard_demo.png" alt="FIFA Dashboard Demo Screenshot" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
+    <img src="https://raw.githubusercontent.com/vaibhavsuthar7/FIFA_analytics/main/assets/dashboard_demo.png" alt="FIFA Dashboard Demo Screenshot" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
   </a>
 </div>
 
