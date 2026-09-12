@@ -21,7 +21,10 @@ document.addEventListener('DOMContentLoaded', async () => {
 // Load JSON dataset
 async function loadData() {
     try {
-        const response = await fetch('players_data.json');
+        let response = await fetch('cleaned_data/players_data.json');
+        if (!response.ok) {
+            response = await fetch('players_data.json');
+        }
         allPlayers = await response.json();
         filteredPlayers = [...allPlayers];
         populateClubFilter();

@@ -3,7 +3,10 @@ import numpy as np
 import json
 import os
 
-input_path = r"c:\Users\vaibh\Desktop\data\FIFA\players_22.csv"
+base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+input_path = os.path.join(base_dir, "raw_data", "players_22.csv")
+if not os.path.exists(input_path):
+    input_path = os.path.join(base_dir, "players_22.csv")
 df = pd.read_csv(input_path)
 
 print("Raw data loaded. Shape:", df.shape)
@@ -58,12 +61,14 @@ df['hidden_gem_flag'] = np.where(
 )
 
 # Export cleaned CSV
-cleaned_csv_path = r"c:\Users\vaibh\Desktop\data\FIFA\cleaned_players.csv"
+cleaned_dir = os.path.join(base_dir, "cleaned_data")
+os.makedirs(cleaned_dir, exist_ok=True)
+cleaned_csv_path = os.path.join(cleaned_dir, "cleaned_players.csv")
 df.to_csv(cleaned_csv_path, index=False)
 print("Cleaned CSV exported to:", cleaned_csv_path)
 
 # Export JSON for Web App
-json_path = r"c:\Users\vaibh\Desktop\data\FIFA\players_data.json"
+json_path = os.path.join(cleaned_dir, "players_data.json")
 records = df.to_dict(orient='records')
 with open(json_path, 'w', encoding='utf-8') as f:
     json.dump(records, f, indent=2)

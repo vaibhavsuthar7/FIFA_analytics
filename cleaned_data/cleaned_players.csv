@@ -1,0 +1,381 @@
+short_name,age,club_name,nationality_name,overall,potential,value_eur,wage_eur,player_positions,pace,shooting,passing,dribbling,defending,physic,preferred_foot,sofifa_id,primary_position,position_group,age_bucket,growth_potential,value_million,value_for_money,hidden_gem_flag
+E. Haaland,23,Manchester City,Norway,91,94,185000000,340000,ST,89,93,66,80,45,88,Left,100001,ST,Attacker,21-25,3,185.0,0.49,Regular Target
+K. Mbappé,25,Real Madrid,France,91,94,180000000,350000,"ST, LW",97,90,80,92,36,78,Right,100002,ST,Attacker,21-25,3,180.0,0.51,Regular Target
+J. Bellingham,20,Real Madrid,England,86,91,120000000,210000,"CAM, CM",79,82,82,85,78,82,Right,100003,CAM,Midfielder,U21,5,120.0,0.72,Regular Target
+Vini Jr.,23,Real Madrid,Brazil,89,93,158000000,290000,LW,95,82,78,90,29,68,Right,100004,LW,Attacker,21-25,4,158.0,0.56,Regular Target
+F. Wirtz,21,Bayer 04 Leverkusen,Germany,85,92,95000000,120000,"CAM, CM",81,79,85,88,52,62,Right,100005,CAM,Midfielder,U21,7,95.0,0.89,Regular Target
+J. Musiala,21,Bayern München,Germany,86,93,110000000,130000,"CAM, LM",85,76,79,91,64,64,Right,100006,CAM,Midfielder,U21,7,110.0,0.78,Regular Target
+L. Yamal,16,FC Barcelona,Spain,78,91,35000000,25000,RW,86,73,77,83,32,50,Left,100007,RW,Attacker,U21,13,35.0,2.23,Hidden Gem
+Pedri,21,FC Barcelona,Spain,86,92,105000000,160000,CM,78,68,84,88,68,65,Right,100008,CM,Midfielder,U21,6,105.0,0.82,Regular Target
+C. Palmer,22,Aston Villa,England,83,89,65000000,90000,"RW, CAM",77,80,83,84,48,63,Left,100009,RW,Attacker,21-25,6,65.0,1.28,Regular Target
+K. De Bruyne,32,Manchester City,Belgium,91,91,90000000,380000,"CM, CAM",72,88,94,87,65,78,Right,100010,CM,Midfielder,30+,0,90.0,1.01,Regular Target
+V. van Dijk,32,Liverpool,Netherlands,89,89,45000000,220000,CB,78,60,71,72,89,86,Right,100011,CB,Defender,30+,0,45.0,1.98,Regular Target
+T. Courtois,31,Real Madrid,Belgium,90,90,60000000,250000,GK,85,89,76,93,46,88,Left,100012,GK,Goalkeeper,30+,0,60.0,1.5,Regular Target
+E. Camavinga,21,Real Madrid,France,82,89,60000000,110000,"CDM, LB",80,66,80,83,79,81,Left,100013,CDM,Midfielder,U21,7,60.0,1.37,Regular Target
+Gavi,19,FC Barcelona,Spain,83,90,70000000,75000,CM,76,66,79,84,74,78,Right,100014,CM,Midfielder,U21,7,70.0,1.19,Regular Target
+Endrick,17,Real Madrid,Brazil,75,89,24000000,20000,ST,88,76,62,79,31,75,Left,100015,ST,Attacker,U21,14,24.0,3.12,Hidden Gem
+Evan Ferguson,19,Brighton & Hove Albion,Ireland,74,86,18000000,30000,ST,75,76,60,72,30,78,Right,100016,ST,Attacker,U21,12,18.0,4.11,Hidden Gem
+A. Güler,19,Real Madrid,Turkey,77,88,23000000,45000,"CAM, RW",74,73,81,82,42,52,Left,100017,CAM,Midfielder,U21,11,23.0,3.35,Hidden Gem
+J. Hato,18,Ajax,Netherlands,73,87,12000000,15000,"CB, LB",79,40,68,70,75,74,Left,100018,CB,Defender,U21,14,12.0,6.08,Hidden Gem
+João Neves,19,Benfica,Portugal,77,87,22000000,25000,"CDM, CM",73,62,76,79,76,75,Right,100019,CDM,Midfielder,U21,10,22.0,3.5,Hidden Gem
+K. Mainoo,19,Manchester City,England,76,87,19000000,35000,"CM, CDM",74,65,76,81,72,70,Right,100020,CM,Midfielder,U21,11,19.0,4.0,Hidden Gem
+S. Dubois,20,Borussia Dortmund,Brazil,74,87,15330000,30000,GK,75,73,77,70,45,85,Right,100021,GK,Goalkeeper,U21,13,15.33,4.83,Hidden Gem
+M. Silva,22,FC Barcelona,Portugal,75,79,12740000,24000,GK,56,78,66,89,40,66,Right,100022,GK,Goalkeeper,21-25,4,12.74,5.89,Regular Target
+A. Smith,18,Borussia Dortmund,Nigeria,66,72,9080000,20000,GK,76,79,71,86,44,80,Right,100023,GK,Goalkeeper,U21,6,9.08,7.27,Regular Target
+K. Conti,19,Liverpool,Brazil,75,83,14140000,26000,GK,57,61,75,68,41,82,Right,100024,GK,Goalkeeper,U21,8,14.14,5.3,Hidden Gem
+N. Van Dijk,29,Bayern München,Uruguay,83,84,17020000,32000,CDM,70,83,88,67,69,72,Right,100025,CDM,Midfielder,26-30,1,17.02,4.88,Regular Target
+H. Taylor,23,Bayern München,Croatia,79,85,15920000,28000,CDM,76,60,81,82,53,75,Right,100026,CDM,Midfielder,21-25,6,15.92,4.96,Regular Target
+D. Kovacić,23,Bayer 04 Leverkusen,Spain,69,76,10710000,22000,RM,83,67,71,87,78,75,Right,100027,RM,Midfielder,21-25,7,10.71,6.44,Regular Target
+N. Dubois,24,Bayern München,Croatia,69,72,9310000,18000,RB,63,48,70,69,75,81,Right,100028,RB,Defender,21-25,3,9.31,7.41,Regular Target
+E. De Jong,18,Atlético de Madrid,Portugal,70,83,13280000,23000,RW,84,85,81,92,52,82,Right,100029,RW,Attacker,U21,13,13.28,5.27,Hidden Gem
+A. Dubois,21,Paris Saint-Germain,Nigeria,76,82,14030000,26000,GK,55,79,61,68,58,65,Left,100030,GK,Goalkeeper,U21,6,14.03,5.42,Regular Target
+G. Conti,18,Manchester City,Netherlands,69,77,11060000,19000,RM,64,60,68,70,59,64,Right,100031,RM,Midfielder,U21,8,11.06,6.24,Hidden Gem
+S. García,23,Bayer 04 Leverkusen,Italy,79,87,16620000,29000,LM,69,69,69,66,65,80,Right,100032,LM,Midfielder,21-25,8,16.62,4.75,Hidden Gem
+H. Müller,19,Liverpool,Brazil,69,79,11760000,23000,LW,77,86,60,68,27,59,Right,100033,LW,Attacker,U21,10,11.76,5.87,Hidden Gem
+K. Kovacić,32,Aston Villa,Uruguay,70,70,5670000,13000,RM,66,83,90,79,56,66,Right,100034,RM,Midfielder,30+,0,5.67,12.35,Regular Target
+N. García,23,Manchester City,Germany,77,80,13580000,25000,RWB,78,66,61,71,87,71,Right,100035,RWB,Defender,21-25,3,13.58,5.67,Regular Target
+R. García,28,Aston Villa,Croatia,76,76,11930000,22000,LWB,70,63,58,67,74,86,Left,100036,LWB,Defender,26-30,0,11.93,6.37,Regular Target
+L. Fernández,18,Free Agent,Belgium,63,78,11100000,21000,RM,86,78,73,77,61,77,Right,100037,RM,Midfielder,U21,15,11.1,5.68,Hidden Gem
+K. Schneider,27,Ajax,France,80,83,15540000,29000,GK,82,79,61,89,35,65,Right,100038,GK,Goalkeeper,26-30,3,15.54,5.15,Regular Target
+L. Rossi,18,Sporting CP,Portugal,75,89,16240000,31000,RWB,72,37,61,60,75,76,Right,100039,RWB,Defender,U21,14,16.24,4.62,Hidden Gem
+A. Brown,21,Real Madrid,Italy,68,72,9220000,21000,CM,73,81,82,87,81,81,Left,100040,CM,Midfielder,U21,4,9.22,7.38,Regular Target
+D. Rossi,23,Borussia Dortmund,England,68,75,10270000,23000,GK,66,56,57,76,39,81,Right,100041,GK,Goalkeeper,21-25,7,10.27,6.62,Regular Target
+N. García,35,Free Agent,Brazil,84,84,11340000,24000,GK,56,82,76,82,39,65,Right,100042,GK,Goalkeeper,30+,0,11.34,7.41,Regular Target
+S. Brown,22,Brighton & Hove Albion,Portugal,81,84,16240000,33000,CF,81,90,63,90,28,77,Right,100043,CF,Attacker,21-25,3,16.24,4.99,Regular Target
+D. Jones,24,Sporting CP,Nigeria,78,80,13860000,25000,LM,67,81,72,85,51,63,Right,100044,LM,Midfielder,21-25,2,13.86,5.63,Regular Target
+N. Conti,20,Real Madrid,Morocco,76,82,14030000,28000,LB,87,40,70,57,87,71,Right,100045,LB,Defender,U21,6,14.03,5.42,Regular Target
+N. Santos,16,Borussia Dortmund,Spain,64,72,9010000,18000,CB,66,67,62,61,85,75,Right,100046,CB,Defender,U21,8,9.01,7.1,Hidden Gem
+M. Dubois,18,Liverpool,Japan,73,87,15130000,32000,CDM,71,60,74,81,75,73,Right,100047,CDM,Midfielder,U21,14,15.13,4.82,Hidden Gem
+V. Williams,21,Borussia Dortmund,Japan,79,81,14520000,27000,RWB,60,46,59,59,90,76,Left,100048,RWB,Defender,U21,2,14.52,5.44,Regular Target
+L. Smith,19,Atlético de Madrid,Colombia,64,72,9010000,20000,CB,83,67,78,74,78,84,Left,100049,CB,Defender,U21,8,9.01,7.1,Hidden Gem
+L. Santos,18,Aston Villa,Italy,67,80,11940000,24000,ST,72,80,82,70,49,83,Right,100050,ST,Attacker,U21,13,11.94,5.61,Hidden Gem
+J. Taylor,19,Ajax,Brazil,75,82,13790000,28000,LB,81,50,63,58,68,71,Left,100051,LB,Defender,U21,7,13.79,5.44,Regular Target
+H. Dubois,19,FC Barcelona,Nigeria,66,75,10130000,19000,RB,67,41,57,71,68,83,Right,100052,RB,Defender,U21,9,10.13,6.52,Hidden Gem
+N. Dubois,17,Paris Saint-Germain,Colombia,64,75,10060000,21000,GK,76,84,60,65,47,83,Left,100053,GK,Goalkeeper,U21,11,10.06,6.36,Hidden Gem
+M. Santos,27,Paris Saint-Germain,Croatia,71,71,9210000,20000,CF,70,79,58,72,52,83,Right,100054,CF,Attacker,26-30,0,9.21,7.71,Regular Target
+H. Rossi,21,Brighton & Hove Albion,Morocco,71,75,10610000,23000,RW,86,81,69,81,45,60,Left,100055,RW,Attacker,U21,4,10.61,6.69,Regular Target
+E. Schmidt,20,Manchester City,Morocco,70,80,12230000,23000,LB,76,65,57,55,87,88,Right,100056,LB,Defender,U21,10,12.23,5.72,Hidden Gem
+M. Kovacić,18,Benfica,Ghana,62,70,8300000,14000,CDM,79,82,77,87,75,60,Right,100057,CDM,Midfielder,U21,8,8.3,7.47,Hidden Gem
+E. García,22,FC Barcelona,Netherlands,75,78,12390000,25000,GK,76,77,56,90,44,66,Left,100058,GK,Goalkeeper,21-25,3,12.39,6.05,Regular Target
+V. Popov,19,Manchester City,Spain,69,75,10360000,22000,GK,83,80,57,77,59,77,Left,100059,GK,Goalkeeper,U21,6,10.36,6.66,Regular Target
+J. Conti,17,Borussia Dortmund,Belgium,68,82,12720000,26000,CAM,74,77,68,73,81,71,Left,100060,CAM,Midfielder,U21,14,12.72,5.35,Hidden Gem
+H. Conti,25,FC Barcelona,France,81,83,15890000,29000,RB,87,36,77,76,86,89,Left,100061,RB,Defender,21-25,2,15.89,5.1,Regular Target
+A. Schmidt,22,Sporting CP,Belgium,73,75,10930000,20000,GK,60,69,76,70,39,65,Right,100062,GK,Goalkeeper,21-25,2,10.93,6.68,Regular Target
+G. De Jong,25,Inter,Argentina,81,84,16240000,28000,CDM,68,61,73,78,81,77,Left,100063,CDM,Midfielder,21-25,3,16.24,4.99,Regular Target
+M. Silva,20,Free Agent,Norway,64,76,10410000,22000,RM,79,67,86,82,73,76,Right,100064,RM,Midfielder,U21,12,10.41,6.15,Hidden Gem
+L. Fernández,20,Free Agent,Brazil,68,83,13070000,23000,RB,85,57,63,66,88,68,Right,100065,RB,Defender,U21,15,13.07,5.2,Hidden Gem
+J. Conti,18,Bayer 04 Leverkusen,Belgium,62,69,7950000,19000,RM,83,73,75,78,70,58,Left,100066,RM,Midfielder,U21,7,7.95,7.8,Regular Target
+N. Smith,30,Liverpool,England,74,74,10780000,23000,CDM,66,79,90,68,61,83,Right,100067,CDM,Midfielder,26-30,0,10.78,6.86,Regular Target
+S. Schneider,20,Ajax,Morocco,66,77,10830000,21000,CM,75,62,82,82,79,71,Left,100068,CM,Midfielder,U21,11,10.83,6.09,Hidden Gem
+N. Müller,32,Free Agent,England,72,72,6310000,16000,GK,70,80,80,75,55,71,Right,100069,GK,Goalkeeper,30+,0,6.31,11.41,Regular Target
+L. Santos,19,Inter,Uruguay,75,85,14840000,28000,LWB,85,44,76,59,71,69,Right,100070,LWB,Defender,U21,10,14.84,5.05,Hidden Gem
+G. Fernández,19,Atlético de Madrid,Morocco,71,86,14460000,29000,CM,87,58,91,70,62,61,Left,100071,CM,Midfielder,U21,15,14.46,4.91,Hidden Gem
+E. Schneider,22,Brighton & Hove Albion,France,83,91,19470000,39000,LB,87,66,74,66,85,70,Right,100072,LB,Defender,21-25,8,19.47,4.26,Hidden Gem
+G. Moreau,22,Paris Saint-Germain,Germany,68,74,9920000,20000,LM,72,62,79,68,50,58,Left,100073,LM,Midfielder,21-25,6,9.92,6.85,Regular Target
+G. Schmidt,23,Ajax,Uruguay,78,83,14910000,30000,GK,67,66,68,61,53,82,Right,100074,GK,Goalkeeper,21-25,5,14.91,5.23,Regular Target
+L. Schmidt,23,Aston Villa,Italy,68,71,8870000,16000,LB,85,44,56,73,76,74,Right,100075,LB,Defender,21-25,3,8.87,7.67,Regular Target
+D. Brown,17,Aston Villa,Morocco,66,73,9430000,17000,GK,65,83,78,63,59,85,Right,100076,GK,Goalkeeper,U21,7,9.43,7.0,Regular Target
+S. Schneider,31,Liverpool,England,71,71,5990000,13000,GK,63,78,57,76,37,80,Right,100077,GK,Goalkeeper,30+,0,5.99,11.85,Regular Target
+O. Smith,17,Sporting CP,Germany,62,74,9700000,19000,RW,93,87,62,79,41,77,Left,100078,RW,Attacker,U21,12,9.7,6.39,Hidden Gem
+M. Smith,24,Real Madrid,Ghana,76,80,13330000,28000,RB,76,54,70,76,80,86,Right,100079,RB,Defender,21-25,4,13.33,5.7,Regular Target
+N. Conti,20,Juventus,Germany,73,87,15130000,30000,LM,70,64,81,85,68,83,Right,100080,LM,Midfielder,U21,14,15.13,4.82,Hidden Gem
+O. Van Dijk,22,Inter,Morocco,72,78,11810000,25000,LM,86,77,88,69,70,80,Right,100081,LM,Midfielder,21-25,6,11.81,6.1,Regular Target
+M. Schneider,25,Inter,Croatia,76,76,11930000,26000,LWB,85,48,59,57,90,78,Right,100082,LWB,Defender,21-25,0,11.93,6.37,Regular Target
+J. Smith,23,Juventus,Nigeria,82,87,17670000,32000,CAM,73,74,73,72,63,70,Left,100083,CAM,Midfielder,21-25,5,17.67,4.64,Regular Target
+M. Williams,18,Paris Saint-Germain,Spain,70,77,11180000,22000,CF,71,69,62,73,43,62,Right,100084,CF,Attacker,U21,7,11.18,6.26,Regular Target
+G. Rossi,20,Borussia Dortmund,Portugal,62,73,9350000,16000,CDM,78,64,80,69,53,63,Right,100085,CDM,Midfielder,U21,11,9.35,6.63,Hidden Gem
+G. Williams,23,FC Barcelona,Nigeria,70,76,10830000,21000,GK,81,64,80,78,41,67,Left,100086,GK,Goalkeeper,21-25,6,10.83,6.46,Regular Target
+N. Van Dijk,19,Borussia Dortmund,Brazil,63,78,11100000,25000,LWB,87,42,63,61,68,70,Right,100087,LWB,Defender,U21,15,11.1,5.68,Hidden Gem
+G. Schneider,22,Sporting CP,Nigeria,81,83,15890000,29000,GK,79,87,60,80,40,76,Right,100088,GK,Goalkeeper,21-25,2,15.89,5.1,Regular Target
+H. Müller,32,Ajax,Ghana,80,80,9420000,18000,CB,74,55,70,76,88,78,Right,100089,CB,Defender,30+,0,9.42,8.49,Regular Target
+A. Jones,28,Paris Saint-Germain,Japan,73,75,10930000,24000,LW,89,89,75,82,33,71,Left,100090,LW,Attacker,26-30,2,10.93,6.68,Regular Target
+S. Brown,23,Benfica,Netherlands,82,84,16620000,30000,CM,83,79,70,81,72,82,Right,100091,CM,Midfielder,21-25,2,16.62,4.93,Regular Target
+E. Dubois,28,Liverpool,Italy,79,82,14870000,29000,ST,77,70,69,91,52,75,Right,100092,ST,Attacker,26-30,3,14.87,5.31,Regular Target
+L. Dubois,19,Aston Villa,Brazil,73,82,13380000,27000,GK,62,82,82,64,43,68,Right,100093,GK,Goalkeeper,U21,9,13.38,5.46,Hidden Gem
+K. Conti,33,Free Agent,Nigeria,84,84,11340000,25000,GK,87,74,67,87,50,77,Left,100094,GK,Goalkeeper,30+,0,11.34,7.41,Regular Target
+K. Van Dijk,28,Real Madrid,Croatia,75,76,11690000,20000,GK,59,79,56,69,58,82,Left,100095,GK,Goalkeeper,26-30,1,11.69,6.42,Regular Target
+E. Van Dijk,21,Brighton & Hove Albion,Morocco,72,80,12510000,23000,GK,87,55,72,91,49,81,Right,100096,GK,Goalkeeper,U21,8,12.51,5.76,Hidden Gem
+S. Smith,20,Benfica,France,71,85,14110000,28000,CF,86,77,58,69,33,57,Left,100097,CF,Attacker,U21,14,14.11,5.03,Hidden Gem
+E. Jones,18,Arsenal,Morocco,66,78,11180000,24000,LM,78,62,72,71,52,78,Right,100098,LM,Midfielder,U21,12,11.18,5.9,Hidden Gem
+N. Smith,22,Arsenal,Nigeria,72,78,11810000,25000,ST,79,83,74,88,38,63,Right,100099,ST,Attacker,21-25,6,11.81,6.1,Regular Target
+M. Conti,17,Bayer 04 Leverkusen,Nigeria,64,73,9360000,21000,GK,55,86,56,87,42,71,Right,100100,GK,Goalkeeper,U21,9,9.36,6.84,Hidden Gem
+S. Smith,23,Liverpool,Spain,69,76,10710000,20000,LM,64,75,79,66,71,69,Left,100101,LM,Midfielder,21-25,7,10.71,6.44,Regular Target
+D. Dubois,21,FC Barcelona,England,81,85,16590000,31000,GK,71,77,69,64,55,78,Right,100102,GK,Goalkeeper,U21,4,16.59,4.88,Regular Target
+L. Popov,23,Arsenal,Netherlands,70,78,11530000,25000,LB,61,52,69,73,69,87,Right,100103,LB,Defender,21-25,8,11.53,6.07,Hidden Gem
+V. Schmidt,21,Ajax,Belgium,68,77,10970000,20000,ST,92,74,76,84,29,83,Right,100104,ST,Attacker,U21,9,10.97,6.2,Hidden Gem
+R. Fernández,18,Paris Saint-Germain,Norway,69,75,10360000,23000,RWB,76,54,78,59,69,73,Right,100105,RWB,Defender,U21,6,10.36,6.66,Regular Target
+V. Van Dijk,21,Aston Villa,Portugal,80,87,16940000,33000,GK,65,77,77,75,45,86,Right,100106,GK,Goalkeeper,U21,7,16.94,4.72,Regular Target
+E. Popov,23,Bayern München,England,71,80,12360000,24000,CB,83,59,57,57,85,86,Right,100107,CB,Defender,21-25,9,12.36,5.74,Hidden Gem
+N. Brown,16,Juventus,France,66,73,9430000,21000,RW,79,86,78,73,25,59,Left,100108,RW,Attacker,U21,7,9.43,7.0,Regular Target
+K. De Jong,20,Ajax,Brazil,71,78,11660000,22000,ST,83,90,70,76,50,79,Left,100109,ST,Attacker,U21,7,11.66,6.09,Regular Target
+S. Popov,21,Free Agent,Japan,73,81,13030000,28000,RWB,70,51,58,55,75,84,Left,100110,RWB,Defender,U21,8,13.03,5.6,Hidden Gem
+O. Dubois,22,FC Barcelona,Belgium,71,79,12010000,21000,RW,93,86,71,90,38,78,Left,100111,RW,Attacker,21-25,8,12.01,5.91,Hidden Gem
+V. Popov,24,Aston Villa,Italy,77,84,14980000,31000,LWB,78,41,57,69,90,81,Right,100112,LWB,Defender,21-25,7,14.98,5.14,Regular Target
+E. Williams,24,Bayer 04 Leverkusen,Uruguay,79,85,15920000,31000,RW,75,67,76,82,49,77,Right,100113,RW,Attacker,21-25,6,15.92,4.96,Regular Target
+R. Moreau,20,Free Agent,France,71,83,13410000,25000,CAM,78,64,89,77,74,74,Right,100114,CAM,Midfielder,U21,12,13.41,5.29,Hidden Gem
+K. Williams,19,Free Agent,Netherlands,70,79,11880000,20000,GK,72,76,56,74,42,72,Left,100115,GK,Goalkeeper,U21,9,11.88,5.89,Hidden Gem
+L. García,20,Inter,Netherlands,64,79,11460000,22000,LW,74,70,77,69,51,78,Left,100116,LW,Attacker,U21,15,11.46,5.58,Hidden Gem
+V. De Jong,21,Benfica,Morocco,73,79,12330000,25000,RB,60,56,75,60,73,83,Right,100117,RB,Defender,U21,6,12.33,5.92,Regular Target
+D. Jones,18,Liverpool,Norway,72,85,14260000,28000,RW,78,87,60,86,32,59,Right,100118,RW,Attacker,U21,13,14.26,5.05,Hidden Gem
+J. Conti,33,Bayern München,Morocco,73,73,6650000,11000,CB,87,45,58,69,73,89,Right,100119,CB,Defender,30+,0,6.65,10.98,Regular Target
+N. Moreau,19,Sporting CP,Norway,69,80,12110000,26000,LB,84,36,69,65,75,86,Right,100120,LB,Defender,U21,11,12.11,5.7,Hidden Gem
+G. De Jong,26,Paris Saint-Germain,Norway,74,75,11130000,25000,RB,81,38,73,74,68,87,Right,100121,RB,Defender,26-30,1,11.13,6.65,Regular Target
+M. Santos,19,Free Agent,Norway,76,82,14030000,29000,RB,65,45,58,67,78,70,Right,100122,RB,Defender,U21,6,14.03,5.42,Regular Target
+L. Kovacić,17,Inter,Japan,63,76,10400000,18000,ST,74,87,67,79,26,67,Left,100123,ST,Attacker,U21,13,10.4,6.06,Hidden Gem
+E. Santos,23,Liverpool,Japan,71,73,9910000,18000,RW,74,73,74,76,35,69,Right,100124,RW,Attacker,21-25,2,9.91,7.16,Regular Target
+N. García,21,Manchester City,Brazil,74,78,12180000,25000,GK,85,59,84,87,46,82,Right,100125,GK,Goalkeeper,U21,4,12.18,6.08,Regular Target
+G. Fernández,17,Free Agent,Colombia,69,83,13160000,25000,CDM,64,60,68,73,81,79,Right,100126,CDM,Midfielder,U21,14,13.16,5.24,Hidden Gem
+H. Rossi,16,Brighton & Hove Albion,Norway,74,87,15330000,30000,LW,78,69,71,70,45,59,Right,100127,LW,Attacker,U21,13,15.33,4.83,Hidden Gem
+J. Moreau,25,FC Barcelona,Argentina,83,84,17020000,32000,GK,58,79,67,69,59,82,Right,100128,GK,Goalkeeper,21-25,1,17.02,4.88,Regular Target
+N. Schneider,25,Real Madrid,Colombia,76,79,12980000,26000,RWB,78,67,77,69,68,84,Left,100129,RWB,Defender,21-25,3,12.98,5.86,Regular Target
+M. Dubois,27,Inter,Norway,71,72,9560000,21000,RW,77,72,76,74,43,60,Left,100130,RW,Attacker,26-30,1,9.56,7.43,Regular Target
+S. Kovacić,29,Bayer 04 Leverkusen,Colombia,76,78,12630000,27000,GK,69,83,55,79,41,68,Right,100131,GK,Goalkeeper,26-30,2,12.63,6.02,Regular Target
+S. Müller,35,FC Barcelona,England,68,68,5080000,11000,LB,64,61,77,55,71,89,Right,100132,LB,Defender,30+,0,5.08,13.39,Regular Target
+V. Rossi,23,Ajax,Germany,72,76,11110000,21000,RM,62,79,73,78,80,72,Left,100133,RM,Midfielder,21-25,4,11.11,6.48,Regular Target
+S. Brown,26,Free Agent,Japan,84,84,17450000,34000,LM,66,72,71,77,62,59,Left,100134,LM,Midfielder,26-30,0,17.45,4.81,Regular Target
+K. Conti,16,Liverpool,France,64,72,9010000,17000,GK,80,81,59,79,45,74,Right,100135,GK,Goalkeeper,U21,8,9.01,7.1,Hidden Gem
+V. Silva,19,Liverpool,England,67,80,11940000,21000,RWB,85,46,67,62,85,68,Right,100136,RWB,Defender,U21,13,11.94,5.61,Hidden Gem
+S. Schneider,16,Brighton & Hove Albion,Japan,73,82,13380000,29000,LW,74,88,62,75,34,71,Right,100137,LW,Attacker,U21,9,13.38,5.46,Hidden Gem
+K. Conti,22,Juventus,Germany,77,79,13230000,28000,RW,88,78,65,76,46,65,Right,100138,RW,Attacker,21-25,2,13.23,5.82,Regular Target
+N. Rossi,20,Aston Villa,Morocco,75,85,14840000,29000,LM,87,71,71,87,72,82,Right,100139,LM,Midfielder,U21,10,14.84,5.05,Hidden Gem
+O. Moreau,19,Juventus,Germany,67,79,11590000,25000,ST,84,85,72,76,45,63,Left,100140,ST,Attacker,U21,12,11.59,5.78,Hidden Gem
+K. Santos,18,Bayer 04 Leverkusen,Ghana,70,80,12230000,26000,GK,79,80,65,65,36,71,Right,100141,GK,Goalkeeper,U21,10,12.23,5.72,Hidden Gem
+M. Schmidt,19,Liverpool,Morocco,63,69,7950000,18000,LW,81,91,76,89,48,79,Right,100142,LW,Attacker,U21,6,7.95,7.92,Regular Target
+N. Fernández,21,Real Madrid,Netherlands,73,79,12330000,27000,LM,62,74,78,87,75,75,Right,100143,LM,Midfielder,U21,6,12.33,5.92,Regular Target
+L. Taylor,23,Brighton & Hove Albion,Spain,74,76,11480000,25000,RM,70,74,87,87,71,65,Right,100144,RM,Midfielder,21-25,2,11.48,6.45,Regular Target
+L. Müller,21,Benfica,Norway,68,77,10970000,22000,GK,84,77,73,86,58,83,Right,100145,GK,Goalkeeper,U21,9,10.97,6.2,Hidden Gem
+N. Dubois,19,Ajax,Morocco,75,81,13440000,28000,LW,85,72,76,85,25,68,Right,100146,LW,Attacker,U21,6,13.44,5.58,Regular Target
+R. Brown,23,Arsenal,Spain,69,72,9310000,21000,CF,86,82,63,86,28,55,Right,100147,CF,Attacker,21-25,3,9.31,7.41,Regular Target
+M. Moreau,19,Real Madrid,Norway,68,80,12020000,26000,RW,79,74,76,81,26,82,Right,100148,RW,Attacker,U21,12,12.02,5.66,Hidden Gem
+H. Taylor,25,Benfica,Uruguay,87,89,20630000,39000,CF,70,89,80,70,48,77,Right,100149,CF,Attacker,21-25,2,20.63,4.22,Regular Target
+O. Schmidt,23,Borussia Dortmund,Croatia,80,89,17640000,34000,LW,74,67,76,68,52,69,Right,100150,LW,Attacker,21-25,9,17.64,4.54,Hidden Gem
+O. Williams,24,Aston Villa,Croatia,70,79,11880000,26000,ST,83,88,71,78,40,58,Right,100151,ST,Attacker,21-25,9,11.88,5.89,Regular Target
+L. Brown,29,Juventus,Germany,83,85,17370000,31000,ST,85,82,64,77,31,55,Left,100152,ST,Attacker,26-30,2,17.37,4.78,Regular Target
+L. Müller,18,Brighton & Hove Albion,Brazil,64,72,9010000,21000,GK,83,72,56,60,49,69,Right,100153,GK,Goalkeeper,U21,8,9.01,7.1,Hidden Gem
+O. Popov,19,Aston Villa,Spain,71,78,11660000,25000,RW,92,87,69,87,29,59,Right,100154,RW,Attacker,U21,7,11.66,6.09,Regular Target
+N. Taylor,20,Manchester City,Spain,75,89,16240000,33000,RW,81,67,77,89,36,78,Right,100155,RW,Attacker,U21,14,16.24,4.62,Hidden Gem
+N. Smith,17,Bayern München,Germany,75,88,15890000,30000,CM,75,80,84,83,68,74,Left,100156,CM,Midfielder,U21,13,15.89,4.72,Hidden Gem
+L. Santos,19,Juventus,England,69,76,10710000,19000,RB,84,43,76,76,78,81,Right,100157,RB,Defender,U21,7,10.71,6.44,Regular Target
+K. Müller,33,Borussia Dortmund,Ghana,80,80,9420000,19000,CAM,84,62,78,71,67,78,Left,100158,CAM,Midfielder,30+,0,9.42,8.49,Regular Target
+E. García,25,Aston Villa,Netherlands,78,79,13510000,25000,LB,76,59,60,66,90,88,Left,100159,LB,Defender,21-25,1,13.51,5.77,Regular Target
+H. Moreau,16,Ajax,Belgium,66,80,11880000,21000,LB,86,46,67,75,74,77,Right,100160,LB,Defender,U21,14,11.88,5.56,Hidden Gem
+A. Schneider,28,FC Barcelona,Nigeria,83,86,17720000,35000,RW,91,75,58,86,45,58,Right,100161,RW,Attacker,26-30,3,17.72,4.68,Regular Target
+S. Jones,24,Inter,Portugal,80,86,16590000,33000,LM,69,68,71,82,76,64,Left,100162,LM,Midfielder,21-25,6,16.59,4.82,Regular Target
+G. Van Dijk,22,Atlético de Madrid,Norway,73,76,11280000,23000,ST,84,88,79,89,29,78,Right,100163,ST,Attacker,21-25,3,11.28,6.47,Regular Target
+S. Silva,18,Manchester City,Japan,65,74,9730000,18000,GK,71,63,80,61,55,73,Right,100164,GK,Goalkeeper,U21,9,9.73,6.68,Hidden Gem
+D. Dubois,17,Bayer 04 Leverkusen,Belgium,62,68,7600000,14000,RWB,70,59,61,57,70,85,Right,100165,RWB,Defender,U21,6,7.6,8.16,Regular Target
+E. Jones,25,Manchester City,Uruguay,81,83,15890000,31000,GK,66,73,59,71,51,81,Right,100166,GK,Goalkeeper,21-25,2,15.89,5.1,Regular Target
+O. Smith,30,Paris Saint-Germain,Portugal,84,84,17450000,35000,GK,70,78,73,67,55,81,Right,100167,GK,Goalkeeper,26-30,0,17.45,4.81,Regular Target
+M. Moreau,23,Paris Saint-Germain,Belgium,73,82,13380000,24000,RM,69,82,85,77,64,83,Left,100168,RM,Midfielder,21-25,9,13.38,5.46,Hidden Gem
+L. Jones,17,FC Barcelona,Brazil,71,86,14460000,30000,CAM,68,74,90,86,71,83,Right,100169,CAM,Midfielder,U21,15,14.46,4.91,Hidden Gem
+N. Van Dijk,19,Real Madrid,Belgium,76,86,15430000,31000,RW,88,80,65,85,51,77,Right,100170,RW,Attacker,U21,10,15.43,4.93,Hidden Gem
+S. Kovacić,25,Aston Villa,Uruguay,76,78,12630000,26000,RW,79,71,74,81,48,57,Right,100171,RW,Attacker,21-25,2,12.63,6.02,Regular Target
+L. Popov,21,Free Agent,Italy,80,83,15540000,27000,LWB,64,60,77,77,79,74,Right,100172,LWB,Defender,U21,3,15.54,5.15,Regular Target
+E. Smith,19,Bayern München,Brazil,62,71,8650000,20000,GK,76,79,67,77,35,80,Right,100173,GK,Goalkeeper,U21,9,8.65,7.17,Hidden Gem
+N. Fernández,20,Bayern München,Netherlands,73,80,12680000,22000,GK,84,67,67,77,37,71,Right,100174,GK,Goalkeeper,U21,7,12.68,5.76,Regular Target
+D. Taylor,16,Brighton & Hove Albion,Brazil,74,80,12880000,27000,LW,90,76,82,83,48,66,Left,100175,LW,Attacker,U21,6,12.88,5.75,Regular Target
+R. Smith,33,Liverpool,England,77,77,8150000,15000,GK,74,59,55,89,51,67,Right,100176,GK,Goalkeeper,30+,0,8.15,9.45,Regular Target
+H. Dubois,20,Atlético de Madrid,Germany,69,76,10710000,18000,LWB,64,59,70,55,88,81,Right,100177,LWB,Defender,U21,7,10.71,6.44,Regular Target
+M. Moreau,16,Bayer 04 Leverkusen,Germany,76,82,14030000,25000,CDM,73,83,72,70,60,63,Left,100178,CDM,Midfielder,U21,6,14.03,5.42,Regular Target
+R. Silva,33,Manchester City,Italy,81,81,9880000,20000,GK,65,67,56,84,41,84,Right,100179,GK,Goalkeeper,30+,0,9.88,8.2,Regular Target
+J. García,17,Free Agent,Portugal,69,78,11410000,25000,RWB,80,44,65,56,76,84,Right,100180,RWB,Defender,U21,9,11.41,6.05,Hidden Gem
+L. Popov,30,Real Madrid,Belgium,73,73,10230000,19000,RB,81,57,71,63,70,87,Right,100181,RB,Defender,26-30,0,10.23,7.14,Regular Target
+S. Schneider,34,Bayern München,France,77,77,8150000,16000,RWB,77,52,71,57,70,73,Right,100182,RWB,Defender,30+,0,8.15,9.45,Regular Target
+G. Kovacić,22,Juventus,France,80,88,17290000,33000,GK,63,58,68,64,36,75,Right,100183,GK,Goalkeeper,21-25,8,17.29,4.63,Hidden Gem
+L. Smith,27,Sporting CP,Germany,72,74,10410000,19000,CDM,70,60,69,77,59,66,Right,100184,CDM,Midfielder,26-30,2,10.41,6.92,Regular Target
+D. Brown,19,Bayern München,Nigeria,70,80,12230000,22000,LW,71,88,72,73,32,81,Right,100185,LW,Attacker,U21,10,12.23,5.72,Hidden Gem
+H. Silva,24,Manchester City,Japan,77,80,13580000,28000,GK,67,82,59,72,51,82,Left,100186,GK,Goalkeeper,21-25,3,13.58,5.67,Regular Target
+N. Jones,21,FC Barcelona,Spain,83,90,19120000,36000,ST,88,90,60,91,32,56,Right,100187,ST,Attacker,U21,7,19.12,4.34,Regular Target
+L. Moreau,21,Free Agent,Italy,80,86,16590000,30000,CB,65,58,73,70,75,68,Left,100188,CB,Defender,U21,6,16.59,4.82,Regular Target
+M. Popov,18,Brighton & Hove Albion,Germany,77,91,17430000,31000,LM,74,82,88,75,53,63,Right,100189,LM,Midfielder,U21,14,17.43,4.42,Hidden Gem
+H. Dubois,18,Brighton & Hove Albion,Italy,66,81,12230000,24000,LWB,78,65,77,64,77,78,Left,100190,LWB,Defender,U21,15,12.23,5.4,Hidden Gem
+L. Conti,18,Brighton & Hove Albion,Italy,68,75,10270000,20000,LW,71,78,70,79,31,56,Right,100191,LW,Attacker,U21,7,10.27,6.62,Regular Target
+N. García,19,FC Barcelona,Spain,75,81,13440000,29000,CM,78,65,69,89,62,60,Right,100192,CM,Midfielder,U21,6,13.44,5.58,Regular Target
+D. Müller,17,Free Agent,England,64,76,10410000,22000,ST,78,66,72,72,53,76,Right,100193,ST,Attacker,U21,12,10.41,6.15,Hidden Gem
+D. Smith,29,Manchester City,Norway,73,74,10580000,23000,GK,71,66,76,76,44,86,Right,100194,GK,Goalkeeper,26-30,1,10.58,6.9,Regular Target
+V. Brown,19,Bayer 04 Leverkusen,Brazil,71,84,13760000,26000,CDM,75,72,79,69,76,60,Left,100195,CDM,Midfielder,U21,13,13.76,5.16,Hidden Gem
+D. Taylor,22,Atlético de Madrid,Germany,79,87,16620000,29000,CB,70,67,60,69,82,86,Right,100196,CB,Defender,21-25,8,16.62,4.75,Hidden Gem
+A. Popov,19,Free Agent,France,68,83,13070000,26000,LWB,73,63,58,71,70,80,Right,100197,LWB,Defender,U21,15,13.07,5.2,Hidden Gem
+S. Rossi,26,Juventus,Uruguay,84,86,18150000,35000,GK,83,65,74,91,36,79,Right,100198,GK,Goalkeeper,26-30,2,18.15,4.63,Regular Target
+V. Van Dijk,23,FC Barcelona,Brazil,73,77,11630000,26000,LB,62,51,66,75,82,83,Right,100199,LB,Defender,21-25,4,11.63,6.28,Regular Target
+M. Smith,26,Ajax,Italy,75,77,12040000,26000,GK,55,69,56,88,37,81,Right,100200,GK,Goalkeeper,26-30,2,12.04,6.23,Regular Target
+O. Kovacić,23,FC Barcelona,England,79,82,14870000,31000,CAM,73,73,75,79,74,74,Right,100201,CAM,Midfielder,21-25,3,14.87,5.31,Regular Target
+M. García,17,Liverpool,Nigeria,69,76,10710000,23000,RWB,71,58,57,74,81,82,Left,100202,RWB,Defender,U21,7,10.71,6.44,Regular Target
+K. Moreau,21,Bayer 04 Leverkusen,Ghana,81,89,17990000,35000,LW,81,84,61,76,30,70,Right,100203,LW,Attacker,U21,8,17.99,4.5,Hidden Gem
+L. Rossi,21,Benfica,Ghana,82,89,18370000,37000,LM,82,78,69,89,57,68,Right,100204,LM,Midfielder,U21,7,18.37,4.46,Regular Target
+M. Popov,33,Manchester City,France,84,84,11340000,24000,GK,75,72,84,91,52,78,Right,100205,GK,Goalkeeper,30+,0,11.34,7.41,Regular Target
+L. Moreau,32,Inter,Italy,73,73,6650000,13000,CM,72,70,68,71,58,65,Right,100206,CM,Midfielder,30+,0,6.65,10.98,Regular Target
+K. Schneider,24,Arsenal,Croatia,70,79,11880000,22000,GK,71,66,79,73,49,80,Right,100207,GK,Goalkeeper,21-25,9,11.88,5.89,Regular Target
+M. Santos,21,Brighton & Hove Albion,France,79,84,15570000,30000,CDM,71,65,85,66,51,58,Left,100208,CDM,Midfielder,U21,5,15.57,5.07,Regular Target
+V. Smith,17,Aston Villa,Colombia,74,80,12880000,23000,GK,56,80,68,85,52,79,Right,100209,GK,Goalkeeper,U21,6,12.88,5.75,Regular Target
+L. Conti,18,Paris Saint-Germain,Nigeria,68,74,9920000,19000,GK,65,57,81,65,43,70,Right,100210,GK,Goalkeeper,U21,6,9.92,6.85,Regular Target
+L. Dubois,22,Brighton & Hove Albion,Croatia,82,91,19070000,34000,GK,66,62,62,77,54,79,Right,100211,GK,Goalkeeper,21-25,9,19.07,4.3,Hidden Gem
+O. Dubois,25,Juventus,Argentina,76,78,12630000,27000,RW,85,68,63,89,50,57,Right,100212,RW,Attacker,21-25,2,12.63,6.02,Regular Target
+D. De Jong,16,Arsenal,Netherlands,73,88,15480000,31000,GK,65,72,76,71,57,76,Right,100213,GK,Goalkeeper,U21,15,15.48,4.72,Hidden Gem
+J. Schneider,18,Arsenal,Spain,74,82,13580000,26000,RB,78,42,77,75,90,86,Right,100214,RB,Defender,U21,8,13.58,5.45,Hidden Gem
+V. Kovacić,18,Ajax,Italy,67,74,9840000,17000,LW,74,88,66,70,52,64,Right,100215,LW,Attacker,U21,7,9.84,6.81,Regular Target
+N. Williams,20,Ajax,Norway,74,85,14630000,31000,LWB,60,41,66,71,88,87,Right,100216,LWB,Defender,U21,11,14.63,5.06,Hidden Gem
+M. García,22,Inter,Nigeria,79,84,15570000,30000,GK,74,78,72,76,53,73,Left,100217,GK,Goalkeeper,21-25,5,15.57,5.07,Regular Target
+D. Rossi,20,FC Barcelona,Spain,66,73,9430000,22000,GK,56,69,56,63,40,71,Left,100218,GK,Goalkeeper,U21,7,9.43,7.0,Regular Target
+H. Kovacić,19,Bayer 04 Leverkusen,Italy,64,79,11460000,21000,ST,81,67,70,85,32,75,Left,100219,ST,Attacker,U21,15,11.46,5.58,Hidden Gem
+H. Fernández,24,Juventus,Spain,70,73,9780000,20000,CB,63,64,77,64,79,81,Right,100220,CB,Defender,21-25,3,9.78,7.16,Regular Target
+H. Jones,32,Sporting CP,Ghana,72,72,6310000,14000,GK,68,79,74,61,41,70,Right,100221,GK,Goalkeeper,30+,0,6.31,11.41,Regular Target
+E. Van Dijk,23,Brighton & Hove Albion,Italy,76,78,12630000,22000,CAM,63,60,72,70,80,58,Right,100222,CAM,Midfielder,21-25,2,12.63,6.02,Regular Target
+O. Fernández,24,Free Agent,Croatia,75,80,13090000,27000,CDM,84,72,78,75,52,79,Right,100223,CDM,Midfielder,21-25,5,13.09,5.73,Regular Target
+L. Conti,18,FC Barcelona,Brazil,71,86,14460000,28000,RM,70,58,72,85,57,68,Right,100224,RM,Midfielder,U21,15,14.46,4.91,Hidden Gem
+L. Popov,29,FC Barcelona,Norway,80,80,14490000,28000,LM,66,69,72,82,66,81,Left,100225,LM,Midfielder,26-30,0,14.49,5.52,Regular Target
+M. García,25,Brighton & Hove Albion,Ghana,84,86,18150000,34000,CM,73,77,85,79,51,66,Right,100226,CM,Midfielder,21-25,2,18.15,4.63,Regular Target
+E. Schneider,21,Bayer 04 Leverkusen,Italy,71,74,10260000,20000,GK,55,60,59,80,39,65,Left,100227,GK,Goalkeeper,U21,3,10.26,6.92,Regular Target
+L. Müller,21,FC Barcelona,Norway,81,86,16940000,34000,LB,79,58,65,56,85,74,Right,100228,LB,Defender,U21,5,16.94,4.78,Regular Target
+R. Müller,20,Aston Villa,Brazil,76,83,14380000,26000,GK,74,77,84,72,54,80,Right,100229,GK,Goalkeeper,U21,7,14.38,5.29,Regular Target
+E. Jones,29,Manchester City,Colombia,77,78,12880000,24000,RWB,60,42,60,59,82,89,Right,100230,RWB,Defender,26-30,1,12.88,5.98,Regular Target
+R. Rossi,19,Ajax,Netherlands,62,74,9700000,22000,LWB,85,44,72,72,84,75,Right,100231,LWB,Defender,U21,12,9.7,6.39,Hidden Gem
+J. De Jong,26,Ajax,Nigeria,86,89,20130000,36000,LM,69,82,81,69,50,58,Right,100232,LM,Midfielder,26-30,3,20.13,4.27,Regular Target
+E. Schmidt,18,Arsenal,Belgium,77,87,16030000,29000,LW,74,73,83,69,42,60,Right,100233,LW,Attacker,U21,10,16.03,4.8,Hidden Gem
+A. Fernández,19,Sporting CP,Germany,62,76,10400000,23000,RW,85,77,66,88,37,63,Right,100234,RW,Attacker,U21,14,10.4,5.96,Hidden Gem
+S. Jones,17,Sporting CP,Brazil,63,74,9700000,21000,GK,58,73,60,61,52,77,Left,100235,GK,Goalkeeper,U21,11,9.7,6.49,Hidden Gem
+H. De Jong,25,Real Madrid,Colombia,82,84,16620000,33000,GK,78,61,79,80,49,65,Right,100236,GK,Goalkeeper,21-25,2,16.62,4.93,Regular Target
+G. Van Dijk,20,FC Barcelona,Uruguay,68,78,11320000,23000,RW,94,65,74,84,27,66,Right,100237,RW,Attacker,U21,10,11.32,6.01,Hidden Gem
+L. Conti,16,Arsenal,Brazil,72,80,12510000,25000,GK,68,64,56,73,43,67,Right,100238,GK,Goalkeeper,U21,8,12.51,5.76,Hidden Gem
+L. Williams,21,Ajax,France,75,84,14490000,31000,LM,67,78,79,70,51,73,Right,100239,LM,Midfielder,U21,9,14.49,5.18,Hidden Gem
+J. Müller,22,Free Agent,Ghana,79,84,15570000,30000,GK,77,60,68,77,46,75,Left,100240,GK,Goalkeeper,21-25,5,15.57,5.07,Regular Target
+G. Rossi,16,Bayern München,England,68,80,12020000,25000,GK,69,79,58,70,53,79,Right,100241,GK,Goalkeeper,U21,12,12.02,5.66,Hidden Gem
+N. Fernández,18,Benfica,Morocco,74,85,14630000,30000,LW,71,78,61,83,45,74,Right,100242,LW,Attacker,U21,11,14.63,5.06,Hidden Gem
+E. Smith,23,Real Madrid,Uruguay,80,88,17290000,35000,LB,62,42,70,64,71,85,Right,100243,LB,Defender,21-25,8,17.29,4.63,Hidden Gem
+N. Brown,20,Atlético de Madrid,Spain,74,83,13930000,26000,CF,94,75,64,79,34,61,Right,100244,CF,Attacker,U21,9,13.93,5.31,Hidden Gem
+M. Van Dijk,21,Atlético de Madrid,Belgium,74,82,13580000,26000,LW,86,74,67,91,28,74,Right,100245,LW,Attacker,U21,8,13.58,5.45,Hidden Gem
+D. Dubois,21,Bayern München,Italy,74,81,13230000,24000,CDM,73,81,80,75,64,70,Right,100246,CDM,Midfielder,U21,7,13.23,5.59,Regular Target
+A. Conti,22,Paris Saint-Germain,Nigeria,73,79,12330000,22000,GK,63,80,63,74,44,74,Left,100247,GK,Goalkeeper,21-25,6,12.33,5.92,Regular Target
+N. Jones,28,Manchester City,Norway,85,85,18250000,35000,LB,86,38,72,73,71,74,Right,100248,LB,Defender,26-30,0,18.25,4.66,Regular Target
+M. Conti,23,Inter,Ghana,69,73,9660000,19000,GK,59,87,77,80,51,86,Left,100249,GK,Goalkeeper,21-25,4,9.66,7.14,Regular Target
+M. Schmidt,16,Inter,Uruguay,76,84,14730000,27000,RW,76,75,67,76,38,67,Right,100250,RW,Attacker,U21,8,14.73,5.16,Hidden Gem
+L. De Jong,22,Brighton & Hove Albion,Croatia,81,83,15890000,28000,CAM,64,64,88,83,52,67,Left,100251,CAM,Midfielder,21-25,2,15.89,5.1,Regular Target
+E. Williams,20,Benfica,Uruguay,68,82,12720000,27000,RW,93,78,76,71,50,60,Right,100252,RW,Attacker,U21,14,12.72,5.35,Hidden Gem
+N. Smith,22,Paris Saint-Germain,Morocco,74,80,12880000,27000,GK,87,57,63,67,35,70,Right,100253,GK,Goalkeeper,21-25,6,12.88,5.75,Regular Target
+N. Conti,20,Inter,Norway,65,71,8680000,18000,CDM,66,69,88,73,55,65,Left,100254,CDM,Midfielder,U21,6,8.68,7.49,Regular Target
+H. De Jong,23,Ajax,England,73,78,11980000,23000,CF,72,86,63,69,47,66,Right,100255,CF,Attacker,21-25,5,11.98,6.09,Regular Target
+M. García,23,Aston Villa,Uruguay,68,72,9220000,18000,RW,92,84,65,89,36,80,Right,100256,RW,Attacker,21-25,4,9.22,7.38,Regular Target
+R. Jones,30,Manchester City,Brazil,80,80,14490000,27000,GK,70,84,79,82,50,76,Right,100257,GK,Goalkeeper,26-30,0,14.49,5.52,Regular Target
+D. Van Dijk,19,Manchester City,Brazil,73,86,14780000,28000,RB,75,64,67,77,86,75,Left,100258,RB,Defender,U21,13,14.78,4.94,Hidden Gem
+H. García,16,Arsenal,Ghana,65,78,11130000,24000,CAM,73,58,88,85,55,79,Right,100259,CAM,Midfielder,U21,13,11.13,5.84,Hidden Gem
+S. Dubois,17,Bayern München,France,68,74,9920000,18000,RW,85,76,63,87,26,83,Right,100260,RW,Attacker,U21,6,9.92,6.85,Regular Target
+A. Fernández,16,Liverpool,Belgium,62,74,9700000,18000,LW,78,85,59,92,33,55,Left,100261,LW,Attacker,U21,12,9.7,6.39,Hidden Gem
+E. Williams,19,Bayer 04 Leverkusen,Germany,65,77,10780000,20000,RWB,63,52,77,60,70,89,Right,100262,RWB,Defender,U21,12,10.78,6.03,Hidden Gem
+E. Jones,21,FC Barcelona,Italy,73,78,11980000,21000,GK,66,72,67,62,58,74,Right,100263,GK,Goalkeeper,U21,5,11.98,6.09,Regular Target
+E. Schneider,26,Paris Saint-Germain,Uruguay,75,77,12040000,25000,GK,61,68,63,74,55,67,Right,100264,GK,Goalkeeper,26-30,2,12.04,6.23,Regular Target
+L. Dubois,18,Benfica,France,63,71,8650000,20000,GK,72,64,79,61,59,86,Right,100265,GK,Goalkeeper,U21,8,8.65,7.28,Hidden Gem
+A. Müller,19,FC Barcelona,Spain,76,82,14030000,25000,LM,77,79,81,85,52,60,Right,100266,LM,Midfielder,U21,6,14.03,5.42,Regular Target
+M. Smith,20,Brighton & Hove Albion,Spain,70,80,12230000,24000,LW,77,85,59,71,49,69,Right,100267,LW,Attacker,U21,10,12.23,5.72,Hidden Gem
+H. Jones,31,Sporting CP,Uruguay,79,79,8980000,19000,CDM,74,71,87,83,78,63,Right,100268,CDM,Midfielder,30+,0,8.98,8.8,Regular Target
+K. Brown,16,Manchester City,Germany,72,79,12160000,26000,LB,82,53,73,59,86,69,Right,100269,LB,Defender,U21,7,12.16,5.92,Regular Target
+E. Conti,20,Borussia Dortmund,Uruguay,63,70,8300000,19000,CM,85,72,76,88,68,66,Right,100270,CM,Midfielder,U21,7,8.3,7.59,Regular Target
+J. Taylor,18,Liverpool,Brazil,70,78,11530000,20000,GK,87,58,58,66,42,81,Right,100271,GK,Goalkeeper,U21,8,11.53,6.07,Hidden Gem
+V. Kovacić,19,Arsenal,Argentina,73,82,13380000,26000,GK,61,81,82,81,48,71,Right,100272,GK,Goalkeeper,U21,9,13.38,5.46,Hidden Gem
+N. Santos,24,Liverpool,Portugal,73,79,12330000,26000,GK,56,81,75,81,40,79,Left,100273,GK,Goalkeeper,21-25,6,12.33,5.92,Regular Target
+A. Rossi,22,Inter,Japan,74,77,11830000,26000,GK,59,55,67,80,52,77,Right,100274,GK,Goalkeeper,21-25,3,11.83,6.26,Regular Target
+H. García,32,Manchester City,Argentina,85,85,11860000,25000,RW,73,81,60,84,52,65,Left,100275,RW,Attacker,30+,0,11.86,7.17,Regular Target
+H. Schmidt,20,Juventus,Brazil,65,77,10780000,23000,LW,73,66,77,83,52,72,Right,100276,LW,Attacker,U21,12,10.78,6.03,Hidden Gem
+M. Müller,21,Atlético de Madrid,Ghana,76,82,14030000,26000,CAM,67,67,88,75,62,74,Right,100277,CAM,Midfielder,U21,6,14.03,5.42,Regular Target
+H. Fernández,30,Liverpool,Nigeria,84,84,17450000,34000,CM,70,66,68,67,77,73,Right,100278,CM,Midfielder,26-30,0,17.45,4.81,Regular Target
+M. Rossi,19,Aston Villa,Colombia,71,78,11660000,24000,CB,87,55,65,77,69,75,Right,100279,CB,Defender,U21,7,11.66,6.09,Regular Target
+V. Conti,27,Bayer 04 Leverkusen,Argentina,77,77,12530000,22000,RB,76,57,78,67,86,72,Left,100280,RB,Defender,26-30,0,12.53,6.15,Regular Target
+E. Williams,24,Real Madrid,Spain,68,76,10620000,20000,LW,77,77,65,92,47,65,Left,100281,LW,Attacker,21-25,8,10.62,6.4,Regular Target
+J. Kovacić,23,Atlético de Madrid,England,70,79,11880000,23000,CF,86,69,77,88,32,80,Right,100282,CF,Attacker,21-25,9,11.88,5.89,Hidden Gem
+R. Williams,20,Inter,Morocco,65,74,9730000,21000,LM,80,64,86,84,60,83,Right,100283,LM,Midfielder,U21,9,9.73,6.68,Hidden Gem
+L. Moreau,17,Atlético de Madrid,Croatia,75,86,15190000,30000,GK,62,64,60,74,50,81,Right,100284,GK,Goalkeeper,U21,11,15.19,4.94,Hidden Gem
+M. Kovacić,19,Free Agent,Portugal,77,90,17080000,35000,GK,63,56,69,77,37,81,Right,100285,GK,Goalkeeper,U21,13,17.08,4.51,Hidden Gem
+M. Brown,19,Ajax,Morocco,65,79,11480000,22000,CDM,86,83,90,83,59,78,Right,100286,CDM,Midfielder,U21,14,11.48,5.66,Hidden Gem
+L. Van Dijk,17,Atlético de Madrid,Italy,72,85,14260000,25000,GK,67,86,70,91,36,75,Right,100287,GK,Goalkeeper,U21,13,14.26,5.05,Hidden Gem
+R. Brown,16,Aston Villa,Ghana,62,75,10050000,19000,LB,68,59,62,68,85,89,Right,100288,LB,Defender,U21,13,10.05,6.17,Hidden Gem
+L. Conti,19,Benfica,Ghana,65,75,10080000,20000,GK,86,75,57,85,57,71,Left,100289,GK,Goalkeeper,U21,10,10.08,6.45,Hidden Gem
+M. Müller,26,Juventus,Italy,78,80,13860000,26000,RWB,72,55,62,68,75,81,Right,100290,RWB,Defender,26-30,2,13.86,5.63,Regular Target
+V. Conti,24,Sporting CP,Ghana,79,88,16970000,34000,RW,91,86,68,92,46,82,Left,100291,RW,Attacker,21-25,9,16.97,4.66,Regular Target
+L. De Jong,16,Juventus,Germany,63,70,8300000,18000,LM,76,77,85,80,68,80,Left,100292,LM,Midfielder,U21,7,8.3,7.59,Regular Target
+R. Williams,26,Liverpool,Netherlands,82,83,16270000,32000,CDM,66,58,91,68,80,79,Right,100293,CDM,Midfielder,26-30,1,16.27,5.04,Regular Target
+M. Popov,21,Aston Villa,Brazil,80,87,16940000,35000,CF,81,79,82,72,39,62,Right,100294,CF,Attacker,U21,7,16.94,4.72,Regular Target
+J. Silva,20,Ajax,Italy,77,90,17080000,36000,GK,59,57,55,63,42,67,Left,100295,GK,Goalkeeper,U21,13,17.08,4.51,Hidden Gem
+J. Smith,20,Sporting CP,Japan,71,78,11660000,24000,LWB,84,44,75,68,74,69,Right,100296,LWB,Defender,U21,7,11.66,6.09,Regular Target
+J. Taylor,20,Juventus,Japan,74,88,15680000,30000,RWB,63,56,64,76,79,84,Left,100297,RWB,Defender,U21,14,15.68,4.72,Hidden Gem
+H. Taylor,16,Juventus,Morocco,70,77,11180000,22000,CM,77,76,90,71,73,76,Right,100298,CM,Midfielder,U21,7,11.18,6.26,Regular Target
+N. Schmidt,35,Borussia Dortmund,Belgium,71,71,5990000,11000,RM,65,77,77,89,71,60,Right,100299,RM,Midfielder,30+,0,5.99,11.85,Regular Target
+E. Schmidt,18,Benfica,Italy,67,77,10890000,24000,RB,67,55,64,60,81,71,Left,100300,RB,Defender,U21,10,10.89,6.15,Hidden Gem
+S. Rossi,18,Bayern München,Morocco,74,83,13930000,26000,RM,84,64,71,79,52,81,Left,100301,RM,Midfielder,U21,9,13.93,5.31,Hidden Gem
+L. Rossi,17,Manchester City,Norway,71,83,13410000,26000,RW,93,88,59,85,43,82,Right,100302,RW,Attacker,U21,12,13.41,5.29,Hidden Gem
+S. Williams,25,Bayer 04 Leverkusen,Portugal,86,88,19780000,41000,LM,80,79,91,78,61,83,Right,100303,LM,Midfielder,21-25,2,19.78,4.35,Regular Target
+L. Popov,23,Borussia Dortmund,Netherlands,82,87,17670000,33000,CM,77,70,71,88,66,80,Right,100304,CM,Midfielder,21-25,5,17.67,4.64,Regular Target
+M. Fernández,19,Brighton & Hove Albion,Italy,76,85,15080000,27000,LB,86,62,69,65,89,80,Left,100305,LB,Defender,U21,9,15.08,5.04,Hidden Gem
+L. Taylor,18,Paris Saint-Germain,Colombia,67,76,10540000,19000,GK,81,69,60,74,48,75,Left,100306,GK,Goalkeeper,U21,9,10.54,6.36,Hidden Gem
+E. Conti,24,Inter,England,77,86,15680000,28000,CF,94,84,67,85,27,67,Right,100307,CF,Attacker,21-25,9,15.68,4.91,Regular Target
+M. Schneider,23,Brighton & Hove Albion,Argentina,81,88,17640000,34000,RWB,76,53,64,57,81,86,Right,100308,RWB,Defender,21-25,7,17.64,4.59,Regular Target
+E. Rossi,20,Manchester City,France,77,87,16030000,30000,LW,86,85,67,72,28,60,Right,100309,LW,Attacker,U21,10,16.03,4.8,Hidden Gem
+E. Jones,22,Free Agent,Ghana,81,89,17990000,36000,GK,55,78,79,63,40,73,Left,100310,GK,Goalkeeper,21-25,8,17.99,4.5,Hidden Gem
+H. Moreau,18,Bayer 04 Leverkusen,Germany,73,87,15130000,28000,RWB,83,59,58,75,91,79,Right,100311,RWB,Defender,U21,14,15.13,4.82,Hidden Gem
+S. Schneider,16,Real Madrid,Italy,67,79,11590000,20000,LWB,82,62,68,64,83,83,Right,100312,LWB,Defender,U21,12,11.59,5.78,Hidden Gem
+R. Van Dijk,24,Brighton & Hove Albion,Ghana,77,79,13230000,23000,LB,65,43,67,58,91,78,Right,100313,LB,Defender,21-25,2,13.23,5.82,Regular Target
+L. Schneider,17,Arsenal,Japan,71,85,14110000,25000,GK,87,81,61,65,49,82,Right,100314,GK,Goalkeeper,U21,14,14.11,5.03,Hidden Gem
+S. Van Dijk,24,Borussia Dortmund,Nigeria,78,83,14910000,31000,CB,74,41,75,64,79,81,Right,100315,CB,Defender,21-25,5,14.91,5.23,Regular Target
+V. Kovacić,24,Real Madrid,Belgium,77,83,14630000,31000,CAM,66,60,90,70,73,74,Right,100316,CAM,Midfielder,21-25,6,14.63,5.26,Regular Target
+L. Jones,20,Inter,Argentina,70,80,12230000,25000,CB,71,67,72,75,71,77,Left,100317,CB,Defender,U21,10,12.23,5.72,Hidden Gem
+E. De Jong,17,Borussia Dortmund,Netherlands,67,79,11590000,22000,CDM,78,81,69,76,58,64,Right,100318,CDM,Midfielder,U21,12,11.59,5.78,Hidden Gem
+H. Popov,23,Atlético de Madrid,Colombia,68,71,8870000,20000,CF,83,70,59,68,34,75,Left,100319,CF,Attacker,21-25,3,8.87,7.67,Regular Target
+R. García,18,Sporting CP,Nigeria,67,81,12290000,24000,LB,69,50,70,73,74,89,Right,100320,LB,Defender,U21,14,12.29,5.45,Hidden Gem
+M. Taylor,19,Sporting CP,Portugal,76,89,16480000,34000,GK,64,86,61,80,54,68,Right,100321,GK,Goalkeeper,U21,13,16.48,4.61,Hidden Gem
+M. Jones,24,Bayern München,Portugal,73,81,13030000,25000,RB,80,49,76,74,81,76,Left,100322,RB,Defender,21-25,8,13.03,5.6,Regular Target
+M. Jones,21,Arsenal,Ghana,79,82,14870000,31000,GK,56,79,78,89,37,72,Left,100323,GK,Goalkeeper,U21,3,14.87,5.31,Regular Target
+A. Jones,19,Inter,France,71,80,12360000,24000,ST,75,71,77,90,49,81,Left,100324,ST,Attacker,U21,9,12.36,5.74,Hidden Gem
+J. Kovacić,20,FC Barcelona,England,64,74,9710000,21000,CDM,72,81,79,75,57,81,Left,100325,CDM,Midfielder,U21,10,9.71,6.59,Hidden Gem
+A. Santos,20,FC Barcelona,Japan,70,79,11880000,21000,CDM,82,65,90,74,64,72,Right,100326,CDM,Midfielder,U21,9,11.88,5.89,Hidden Gem
+E. Müller,28,Brighton & Hove Albion,Uruguay,77,78,12880000,27000,LM,67,69,69,72,65,60,Left,100327,LM,Midfielder,26-30,1,12.88,5.98,Regular Target
+M. García,20,Free Agent,Brazil,72,79,12160000,23000,LW,77,70,58,68,47,62,Right,100328,LW,Attacker,U21,7,12.16,5.92,Regular Target
+A. Van Dijk,27,Sporting CP,Brazil,85,87,18950000,34000,GK,58,84,60,73,56,83,Right,100329,GK,Goalkeeper,26-30,2,18.95,4.49,Regular Target
+E. Jones,27,Free Agent,Colombia,81,83,15890000,32000,GK,70,55,67,82,55,85,Left,100330,GK,Goalkeeper,26-30,2,15.89,5.1,Regular Target
+H. De Jong,24,Arsenal,Belgium,69,74,10010000,18000,LB,65,65,77,59,70,68,Right,100331,LB,Defender,21-25,5,10.01,6.89,Regular Target
+K. Popov,16,Real Madrid,Netherlands,65,72,9030000,18000,GK,59,82,83,68,54,70,Right,100332,GK,Goalkeeper,U21,7,9.03,7.2,Regular Target
+R. Santos,21,Ajax,England,70,75,10480000,23000,GK,56,63,75,83,36,86,Right,100333,GK,Goalkeeper,U21,5,10.48,6.68,Regular Target
+H. Dubois,25,Free Agent,Portugal,85,85,18250000,36000,GK,80,87,75,62,54,66,Right,100334,GK,Goalkeeper,21-25,0,18.25,4.66,Regular Target
+E. Dubois,19,Juventus,Italy,76,83,14380000,30000,RWB,70,57,70,76,84,72,Right,100335,RWB,Defender,U21,7,14.38,5.29,Regular Target
+M. Dubois,25,Brighton & Hove Albion,Norway,84,86,18150000,33000,CM,62,77,83,67,51,60,Right,100336,CM,Midfielder,21-25,2,18.15,4.63,Regular Target
+K. Taylor,23,Benfica,England,79,87,16620000,31000,GK,60,63,74,87,35,72,Right,100337,GK,Goalkeeper,21-25,8,16.62,4.75,Hidden Gem
+K. Smith,17,Arsenal,Norway,77,85,15330000,27000,RW,94,79,63,82,45,57,Left,100338,RW,Attacker,U21,8,15.33,5.02,Hidden Gem
+N. Dubois,24,Borussia Dortmund,Norway,72,79,12160000,21000,RWB,76,43,57,67,82,85,Right,100339,RWB,Defender,21-25,7,12.16,5.92,Regular Target
+A. Smith,23,Brighton & Hove Albion,Morocco,73,77,11630000,22000,ST,71,88,71,73,38,58,Right,100340,ST,Attacker,21-25,4,11.63,6.28,Regular Target
+S. Schmidt,20,Juventus,Spain,75,83,14140000,30000,CF,83,91,77,84,49,62,Left,100341,CF,Attacker,U21,8,14.14,5.3,Hidden Gem
+A. Schmidt,24,Manchester City,Belgium,77,84,14980000,28000,CDM,83,73,86,79,68,60,Left,100342,CDM,Midfielder,21-25,7,14.98,5.14,Regular Target
+J. Kovacić,24,Free Agent,Portugal,76,81,13680000,29000,GK,61,68,63,86,57,83,Left,100343,GK,Goalkeeper,21-25,5,13.68,5.56,Regular Target
+E. Silva,27,Bayer 04 Leverkusen,Portugal,83,86,17720000,32000,RB,80,51,63,55,91,87,Right,100344,RB,Defender,26-30,3,17.72,4.68,Regular Target
+R. Schmidt,19,Aston Villa,Netherlands,72,82,13210000,25000,CF,78,91,71,76,28,81,Right,100345,CF,Attacker,U21,10,13.21,5.45,Hidden Gem
+H. Taylor,28,Atlético de Madrid,Norway,77,78,12880000,28000,LM,70,81,90,81,78,74,Right,100346,LM,Midfielder,26-30,1,12.88,5.98,Regular Target
+N. Jones,19,Bayern München,Japan,73,81,13030000,23000,RM,75,75,88,86,54,73,Right,100347,RM,Midfielder,U21,8,13.03,5.6,Hidden Gem
+O. Smith,26,Manchester City,Netherlands,72,75,10760000,20000,RB,68,43,58,57,84,69,Right,100348,RB,Defender,26-30,3,10.76,6.69,Regular Target
+A. Kovacić,27,Brighton & Hove Albion,Norway,70,73,9780000,17000,GK,66,66,68,74,49,73,Right,100349,GK,Goalkeeper,26-30,3,9.78,7.16,Regular Target
+G. Van Dijk,19,Borussia Dortmund,Japan,65,76,10430000,19000,RB,79,63,73,58,90,74,Right,100350,RB,Defender,U21,11,10.43,6.23,Hidden Gem
+N. Jones,18,Paris Saint-Germain,Uruguay,65,76,10430000,18000,LM,83,69,69,89,51,80,Right,100351,LM,Midfielder,U21,11,10.43,6.23,Hidden Gem
+N. Schneider,33,Free Agent,England,75,75,7370000,13000,RWB,65,40,76,72,84,79,Right,100352,RWB,Defender,30+,0,7.37,10.18,Regular Target
+L. Smith,22,Arsenal,Netherlands,78,87,16310000,34000,GK,55,83,67,76,37,72,Right,100353,GK,Goalkeeper,21-25,9,16.31,4.78,Hidden Gem
+J. Brown,20,Ajax,Uruguay,77,86,15680000,33000,CB,76,47,60,71,81,84,Right,100354,CB,Defender,U21,9,15.68,4.91,Hidden Gem
+L. Silva,18,Free Agent,Morocco,72,81,12860000,27000,LW,70,90,64,88,45,71,Left,100355,LW,Attacker,U21,9,12.86,5.6,Hidden Gem
+M. Moreau,18,Free Agent,Norway,71,82,13060000,25000,GK,63,78,59,76,43,81,Right,100356,GK,Goalkeeper,U21,11,13.06,5.44,Hidden Gem
+L. Fernández,17,Sporting CP,Brazil,64,76,10410000,18000,CF,78,71,70,78,38,73,Right,100357,CF,Attacker,U21,12,10.41,6.15,Hidden Gem
+M. Moreau,20,Atlético de Madrid,Belgium,76,82,14030000,27000,RWB,71,53,66,62,75,88,Left,100358,RWB,Defender,U21,6,14.03,5.42,Regular Target
+M. Jones,19,Borussia Dortmund,Netherlands,74,80,12880000,26000,GK,80,82,80,64,42,78,Right,100359,GK,Goalkeeper,U21,6,12.88,5.75,Regular Target
+N. Van Dijk,17,Aston Villa,Croatia,74,86,14980000,30000,GK,74,72,72,61,38,65,Left,100360,GK,Goalkeeper,U21,12,14.98,4.94,Hidden Gem
+E. García,20,Benfica,Colombia,63,73,9350000,18000,GK,82,74,71,60,46,83,Right,100361,GK,Goalkeeper,U21,10,9.35,6.74,Hidden Gem
+G. Schmidt,20,Benfica,Belgium,68,75,10270000,23000,GK,83,64,56,78,45,77,Right,100362,GK,Goalkeeper,U21,7,10.27,6.62,Regular Target
+A. Kovacić,16,Manchester City,Argentina,63,71,8650000,18000,GK,63,82,57,79,40,85,Right,100363,GK,Goalkeeper,U21,8,8.65,7.28,Hidden Gem
+V. Müller,28,Aston Villa,Spain,75,77,12040000,24000,GK,56,71,63,89,46,67,Right,100364,GK,Goalkeeper,26-30,2,12.04,6.23,Regular Target
+G. Kovacić,20,Aston Villa,Morocco,68,83,13070000,28000,RWB,80,65,79,77,91,73,Right,100365,RWB,Defender,U21,15,13.07,5.2,Hidden Gem
+N. Brown,26,Atlético de Madrid,England,80,81,14840000,28000,CF,82,87,66,88,30,80,Right,100366,CF,Attacker,26-30,1,14.84,5.39,Regular Target
+N. Conti,22,Aston Villa,Italy,79,82,14870000,28000,CF,72,67,69,82,33,77,Right,100367,CF,Attacker,21-25,3,14.87,5.31,Regular Target
+N. Dubois,19,Atlético de Madrid,Morocco,77,92,17780000,32000,LM,65,58,91,72,51,81,Left,100368,LM,Midfielder,U21,15,17.78,4.33,Hidden Gem
+V. Van Dijk,18,FC Barcelona,Norway,68,77,10970000,20000,CF,70,65,72,87,43,83,Right,100369,CF,Attacker,U21,9,10.97,6.2,Hidden Gem
+S. Müller,21,Aston Villa,Brazil,69,74,10010000,18000,GK,85,81,84,70,51,81,Left,100370,GK,Goalkeeper,U21,5,10.01,6.89,Regular Target
+L. García,23,Real Madrid,Norway,72,81,12860000,23000,CAM,77,77,91,77,55,58,Left,100371,CAM,Midfielder,21-25,9,12.86,5.6,Hidden Gem
+L. Müller,17,FC Barcelona,Argentina,62,69,7950000,15000,CAM,85,60,78,78,53,83,Left,100372,CAM,Midfielder,U21,7,7.95,7.8,Regular Target
+L. Silva,16,FC Barcelona,Uruguay,67,82,12640000,25000,LW,87,70,72,88,54,64,Right,100373,LW,Attacker,U21,15,12.64,5.3,Hidden Gem
+L. Rossi,28,Brighton & Hove Albion,Croatia,74,75,11130000,19000,LM,66,60,90,71,53,75,Right,100374,LM,Midfielder,26-30,1,11.13,6.65,Regular Target
+M. Schneider,25,Aston Villa,Argentina,86,86,19080000,38000,RWB,86,51,67,70,89,71,Right,100375,RWB,Defender,21-25,0,19.08,4.51,Regular Target
+S. Williams,33,Arsenal,Spain,76,76,7750000,15000,CAM,74,59,80,87,70,80,Right,100376,CAM,Midfielder,30+,0,7.75,9.81,Regular Target
+K. Rossi,20,Benfica,Spain,71,78,11660000,21000,RW,82,83,83,84,45,68,Right,100377,RW,Attacker,U21,7,11.66,6.09,Regular Target
+N. Popov,23,Bayer 04 Leverkusen,Nigeria,72,77,11460000,20000,CM,68,61,86,66,77,81,Right,100378,CM,Midfielder,21-25,5,11.46,6.28,Regular Target
+L. Van Dijk,35,Juventus,Croatia,80,80,9420000,17000,RB,61,45,58,73,84,70,Right,100379,RB,Defender,30+,0,9.42,8.49,Regular Target
+
