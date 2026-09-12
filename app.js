@@ -509,3 +509,4 @@ function openPlayerModal(sofifaId) {
 function closeModal() {
     document.getElementById('player-modal').classList.remove('active');
 }
+
