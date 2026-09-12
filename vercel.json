@@ -1,11 +1,3 @@
 {
-  "version": 2,
-  "name": "fifa-analytics",
-  "cleanUrls": true,
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ]
+  "cleanUrls": true
 }
