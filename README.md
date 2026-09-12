@@ -159,8 +159,3 @@ python -m http.server 8080
 └───────────────────┴─────────────────────────────────────────────┘
 ```
 
----
-
-> [!NOTE]
-> *This repository is part of a professional Data Analytics & Business Intelligence portfolio. Stars ⭐️ and contributions are welcome!*
-
