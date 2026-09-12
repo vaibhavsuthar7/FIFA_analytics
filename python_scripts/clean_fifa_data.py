@@ -82,3 +82,4 @@ print("Avg Potential:", round(df['potential'].mean(), 1))
 print("Hidden Gems Count:", (df['hidden_gem_flag'] == "Hidden Gem").sum())
 print("Avg Value (€M):", round(df['value_million'].mean(), 2))
 
+
