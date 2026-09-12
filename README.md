@@ -68,8 +68,8 @@ graph TD
 |---|---|
 | **Author Name** | **Vaibhav** *(Data Analyst & BI Developer)* |
 | **Email Address** | 📧 `vaibhav.analytics@example.com` |
-| **GitHub Profile** | 🔗 [github.com/shalita0052](https://github.com/shalita0052) |
-| **Project Repo** | 🔗 [FIFA-Player-Scouting-Dashboard](https://github.com/shalita0052/financial_performance_analysis) |
+| **GitHub Profile** | 🔗 [github.com/vaibhavsuthar7](https://github.com/vaibhavsuthar7) |
+| **Project Repo** | 🔗 [FIFA_analytics](https://github.com/vaibhavsuthar7/FIFA_analytics) |
 
 ---
 
